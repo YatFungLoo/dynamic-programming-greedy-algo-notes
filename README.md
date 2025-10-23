@@ -9,6 +9,7 @@ Notes on:
     - [Knapsack Notes](#knapsack-notes)
         - [Recursion](#recursion)
     - [LCS Notes](#lcs-notes)
+- [Greedy Algorithm](#greedy-algorithm)
 
 ## Dynamic Programming
 
@@ -29,3 +30,5 @@ the maximum profit without adding said item to the bag, return the maximum of
 this two.
 
 ### LCS Notes
+
+## Greedy Algorithm
